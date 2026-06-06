@@ -1,0 +1,12 @@
+# 编译生成的可执行文件
+*.exe
+
+# 编译中间文件
+*.o
+*.obj
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
